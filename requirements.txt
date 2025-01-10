@@ -1,0 +1,9 @@
+numpy==1.26.2
+pandas==2.1.4
+matplotlib
+seaborn
+joblib
+stramlit
+pickle
+scikit-learn
+pip==23.3.1
