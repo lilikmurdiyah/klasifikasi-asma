@@ -6,4 +6,5 @@ joblib
 streamlit
 streamlit-option-menu
 scikit-learn
+imblearn
 pip==23.3.1
