@@ -3,7 +3,6 @@ pandas==2.1.4
 matplotlib
 seaborn
 joblib
-stramlit
-pickle
+streamlit
 scikit-learn
 pip==23.3.1
