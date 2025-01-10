@@ -4,6 +4,6 @@ matplotlib
 seaborn
 joblib
 streamlit
-option menu
+streamlit-option-menu
 scikit-learn
 pip==23.3.1
